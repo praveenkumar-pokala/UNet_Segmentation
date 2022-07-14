@@ -1,3 +1,3 @@
-# UNet -- Application to Segmentating Persons in Image
+# UNet -- Application to Image Segmentation
 
 ## Development in Pytorch from Scratch
